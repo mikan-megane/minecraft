@@ -3,7 +3,21 @@
 大体いつも稼働中(誰も居ないときにメンテナンスしてます)。
 
 ## サーバーへの接続方法
-へんしゅうちう
+編集中
+
+1. ウンタラカンタラ  
+![](https://github.com/mikan-megane/minecraft/blob/master/img/1.png?raw=true)
+1. ウンタラカンタラ  
+![](https://github.com/mikan-megane/minecraft/blob/master/img/2.png?raw=true)
+1. ウンタラカンタラ  
+![](https://github.com/mikan-megane/minecraft/blob/master/img/3.png?raw=true)
+1. ウンタラカンタラ  
+![](https://github.com/mikan-megane/minecraft/blob/master/img/i1.jpg?raw=true)
+1. ウンタラカンタラ  
+![](https://github.com/mikan-megane/minecraft/blob/master/img/i2.jpg?raw=true)
+1. ウンタラカンタラ  
+![](https://github.com/mikan-megane/minecraft/blob/master/img/i3.jpg?raw=true)
+
 
 ## サーバー仕様
 - サーバーアドレス: minecraft.home.mikan-megane.com
