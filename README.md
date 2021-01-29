@@ -21,6 +21,10 @@
 - [EnergeticStorage](https://github.com/SeanOMik/EnergeticStorage/wiki/Creating-an-ES-System)
   - AE2風ストレージ管理
   - 比較的安いコストで大量のアイテムが格納できる
+- [Lift](https://minecraft-jp.pw/plugin-lift0515/)
+  - エレベーターを作ることが出来る
+- mcMMO
+  - 採掘や戦闘、釣りなどのしてスキルを取得する
 - Slimefun
   - 経験値を消費して研究し、木材、鉱石を効率的に入手したり、魔法や工業を出来るらしい
   - `/slimefun guide`
