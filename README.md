@@ -9,6 +9,7 @@ DiscordのMinecraftServerボットがオフラインの場合は`!wake`とDiscor
 - サーバーアドレス: 招待したDiscord上で`!ip`
 - サーバーバージョン: 1.16.5
 - 対応クライアントバージョン: 1.16.*
+- 停止時起動するにはDiscord上で`!wake`
 
 ## サーバーに入っている便利なプラグイン
 - VeinMiner
