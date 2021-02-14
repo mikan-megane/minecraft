@@ -2,14 +2,14 @@
 みかんが招待した人だけが入れるサーバー。  
 ~~大体いつも稼働中(誰も居ないときにメンテナンスしてます)。~~  
 みかんのPCで稼働しているため使わないときにはスリープにします。  
-DiscordのMinecraftServerボットがオフラインの場合は`!wake`とDiscordに書いてください。  
+DiscordのMinecraftServerボットがオフラインの場合は`/mikan-pc wakeup`とDiscordに書いてください。  
 数分後自動的に起動します。
 
 ## サーバー仕様
-- サーバーアドレス: 招待したDiscord上で`!ip`
+- サーバーアドレス: 招待したDiscord上で`/minecraft info`
 - サーバーバージョン: 1.16.5
 - 対応クライアントバージョン: 1.16.*
-- 停止時起動するにはDiscord上で`!wake`
+- 停止時起動するにはDiscord上で`/mikan-pc wakeup`
 
 ## サーバーに入っている便利なプラグイン
 - VeinMiner
@@ -17,7 +17,7 @@ DiscordのMinecraftServerボットがオフラインの場合は`!wake`とDiscor
   - 手に何も持たず葉っぱを切ることで一括破壊できる
 - dynmap
   - GoogleMapのようにマッププラグイン
-  - URLは招待したDiscord上で`!map`
+  - URLは招待したDiscord上で`/minecraft info`
   - 画像の保存形式にWebPを使用しているので[IEでは見られないかも](https://caniuse.com/webp)
 - BetterSleeping3
   - サーバーにいる半数が寝ると夜が明ける
